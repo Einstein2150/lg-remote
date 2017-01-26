@@ -1,0 +1,2 @@
+# schliesse  Dateien aus , die aus dem  Quellcode  generiert  werden:
+*.pyc
